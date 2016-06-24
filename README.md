@@ -1,3 +1,3 @@
 # haskell
 
-#Just me learning some haskell, nothing to see here
+# Just me learning some haskell, nothing to see here
