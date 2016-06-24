@@ -3,3 +3,5 @@ This is the haskell folder
 Testing git changes
 
 Testing git in Atom
+
+Testing command line in Atom
