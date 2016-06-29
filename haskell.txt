@@ -5,3 +5,5 @@ Testing git changes
 Testing git in Atom
 
 Testing command line in Atom
+
+Another test
