@@ -7,3 +7,5 @@ Testing git in Atom
 Testing command line in Atom
 
 Another test
+
+Testing yet again
