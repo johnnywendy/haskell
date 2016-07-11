@@ -9,3 +9,5 @@ Testing command line in Atom
 Another test
 
 Testing yet again
+
+Changed github password so that's this test
